@@ -1,0 +1,8 @@
+{
+    "name": "CompactPC",
+    "version": "2022.05.30",
+    "license": "MIT",
+    "theme": "CompactPC.theme.css",
+    "author": "Vozer",
+    "description": "A mini theme for Powercord users who would prefer a more compact experience."
+}
