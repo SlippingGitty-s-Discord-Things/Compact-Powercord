@@ -20,6 +20,10 @@ Despite Powercord being one of the better competing Discord modifications, I fin
 ### BetterDiscord-Compat
 ![Screen Shot 2022-05-30 at 4 51 30 PM](https://user-images.githubusercontent.com/76500838/171062406-0f78508f-34fe-484c-af7a-f61e185f231d.png)
 
+
+## How to use 📖 
+Open a terminal in the themes folder, and type git clone https://github.com/SlippingGitty/WinClassic
+
 ____
 
 Truly one of the most innovative things ever designed since Slate. 
