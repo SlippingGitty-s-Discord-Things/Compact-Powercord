@@ -1,29 +1,23 @@
-<h1 align="center">Compact Powercord</h1>
-<p align="center">Powercord Products, but more compact.</p>
+# Compact Powercord
+#### Reduced padding for Powercord's plugins/themes section + BDCompat.
 
-In my most ambitious project yet, I have decided to crack open my finest wine, shower in my most delicious smelling shampoo and conditioner, take out my dry-cleaned tuxedo I keep in the back of my closet, and create something truly wonderful. Something so spectacular that you would think God himself came from above and granted me a beautiful vision that would allow me the knowledge to create something truly tremendous.
-
-## Trailer 🎥 
-
-https://youtu.be/7YOLjy5SWBI
+![Screen Shot 2022-05-30 at 4 51 14 PM](https://user-images.githubusercontent.com/76500838/171062413-866b65a6-e47d-405d-b1e0-276b9dd1d200.png)
 
 ## Info ℹ️
 
-Despite Powercord being one of the better competing Discord modifications, I find myself getting increasingly annoyed at how much fodder there is in it's UI. I will continue to tweak what I have here and there, but yeah. This was not a project of love, and is mostly just an overdone shitpost. Feel free to throw this in your themes. I don't expect credit for dicking around with padding and margins. This is licensed under WTFPL. 
+I find myself getting increasingly annoyed at how much fodder there is in Powercord's UI, so.. this is the result. I will continue to tweak what I have here and there, but yeah. This was not made with much love at all
 
-## Screenshots 🖼️
-
-### Powercord Theme Toggler and Plugins
-![Screen Shot 2022-05-30 at 4 51 14 PM](https://user-images.githubusercontent.com/76500838/171062413-866b65a6-e47d-405d-b1e0-276b9dd1d200.png)
-![Screen Shot 2022-05-30 at 4 51 03 PM](https://user-images.githubusercontent.com/76500838/171067705-5bd1eaaf-b098-4a6d-8571-c6b1cd996c8e.png)
-
-
-### BetterDiscord-Compat
-![Screen Shot 2022-05-30 at 4 51 30 PM](https://user-images.githubusercontent.com/76500838/171062406-0f78508f-34fe-484c-af7a-f61e185f231d.png)
-
+Feel free to throw this in your themes. I don't expect credit for dicking around with padding and margins. This is licensed under WTFPL. 
 
 ## How to use 📖 
 Open a terminal in the Powercord themes folder, and type `git clone https://github.com/SlippingGitty/Compact-Powercord`.
+
+
+## Trailer 🎥 
+
+In my most ambitious project yet, I have decided to crack open my finest wine, shower in my most delicious smelling shampoo and conditioner, take out my dry-cleaned tuxedo I keep in the back of my closet, and create something truly wonderful. Something so spectacular that you would think God himself came from above and granted me a beautiful vision that would allow me the knowledge to create something truly tremendous.
+
+https://youtu.be/7YOLjy5SWBI
 
 ____
 
