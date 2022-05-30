@@ -22,7 +22,7 @@ Despite Powercord being one of the better competing Discord modifications, I fin
 
 
 ## How to use 📖 
-Open a terminal in the themes folder, and type git clone https://github.com/SlippingGitty/WinClassic
+Open a terminal in the Powercord themes folder, and type `git clone https://github.com/SlippingGitty/WinClassic`.
 
 ____
 
