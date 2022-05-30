@@ -1,2 +1,2 @@
-# Compact Powercord
-A mini theme for Powercord users who would prefer a more compact experience.
+<h1 align="center">Compact Powercord</h1>
+<p align="center">Powercord Products, but more compact.</p>
