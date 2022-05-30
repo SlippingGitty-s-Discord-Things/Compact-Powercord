@@ -9,7 +9,7 @@ https://youtu.be/7YOLjy5SWBI
 
 ## Info ℹ️
 
-Despite Powercord being one of the better competing Discord modifications, I find myself getting increasingly annoyed at how much fodder there is in it's UI. I will continue to tweak what I have here and there, but yeah. This was not a project of love, and is mostly just an overdone shitpost. Feel free to throw this in your themes. I don't expect credit for dicking around with padding and margins. This is licensed under WTFPL. https://github.com/SlippingGitty/Compact-Powercord/blob/main/LICENSE
+Despite Powercord being one of the better competing Discord modifications, I find myself getting increasingly annoyed at how much fodder there is in it's UI. I will continue to tweak what I have here and there, but yeah. This was not a project of love, and is mostly just an overdone shitpost. Feel free to throw this in your themes. I don't expect credit for dicking around with padding and margins. This is licensed under WTFPL. 
 
 ## Screenshots 🖼️
 
