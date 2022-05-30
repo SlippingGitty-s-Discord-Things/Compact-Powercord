@@ -15,7 +15,8 @@ Despite Powercord being one of the better competing Discord modifications, I fin
 
 ### Powercord Theme Toggler and Plugins
 ![Screen Shot 2022-05-30 at 4 51 14 PM](https://user-images.githubusercontent.com/76500838/171062413-866b65a6-e47d-405d-b1e0-276b9dd1d200.png)
-![Screen Shot 2022-05-30 at 4 51 20 PM](https://user-images.githubusercontent.com/76500838/171062417-65688930-f9d5-4991-b932-baada6c490a9.png)
+![Screen Shot 2022-05-30 at 4 51 03 PM](https://user-images.githubusercontent.com/76500838/171067705-5bd1eaaf-b098-4a6d-8571-c6b1cd996c8e.png)
+
 
 ### BetterDiscord-Compat
 ![Screen Shot 2022-05-30 at 4 51 30 PM](https://user-images.githubusercontent.com/76500838/171062406-0f78508f-34fe-484c-af7a-f61e185f231d.png)
