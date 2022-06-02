@@ -4,5 +4,5 @@
     "license": "WTFPL",
     "theme": "CompactPC.theme.css",
     "author": "Vozer",
-    "description": "Compact .powercord-products"
+    "description": "Reduced padding for Powercord's plugins/themes section + BDCompat."
 }
